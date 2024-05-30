@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57381764783",
+    "project_id": "flash-electronics-f8c7b",
+    "storage_bucket": "flash-electronics-f8c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57381764783:android:c71f973be569249d5a1e5a",
+        "android_client_info": {
+          "package_name": "flash.seller.electronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57381764783-m0oao6ejp1j3kgf6t46qspvkabo5jfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYy0WBXllTj_fG4WVHbrGBvYMMzCCBSHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57381764783-m0oao6ejp1j3kgf6t46qspvkabo5jfrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
